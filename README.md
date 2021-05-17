@@ -1,4 +1,4 @@
-# Subsite Starterkit Template
+# Subsite Starterkit Template.
 
 This is a simple template package for Composer that allows the ec-europa/ssk to
 be installed with a single command. This template is only usefull as an example
